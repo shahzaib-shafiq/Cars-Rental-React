@@ -1,14 +1,15 @@
 import React from 'react'
 import styles from './Find.module.css';
 import { Navigation,Pagination,Scrollbar,Ally } from 'swiper';
-import { Swiper,SwiperSlide } from 'swiper/types/swiper-events';
+
 import 'swiper/css'
 import 'swiper/css/navigation'
 
-const Card = () => {
+const Card = ({image,make}) => {
   return (
-    <div>
-      
+    <div className={styles.card}>
+      <img src={image}></img>
+      <p>{make}</p>
     </div>
   )
 }
