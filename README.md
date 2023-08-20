@@ -1,3 +1,5 @@
+
+![Screenshot 2023-01-26 014606](https://github.com/shahzaibshafiq100/Cars-Rental-React/assets/73356944/af952458-e3df-4dfe-ad89-55b66b59b5fc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `yarn start`
 
