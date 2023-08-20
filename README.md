@@ -1,6 +1,8 @@
 
-![Screenshot 2023-01-26 014606](https://github.com/shahzaibshafiq100/Cars-Rental-React/assets/73356944/af952458-e3df-4dfe-ad89-55b66b59b5fc)
-![Screenshot 2023-01-26 014620](https://github.com/shahzaibshafiq100/Cars-Rental-React/assets/73356944/da781f00-0ab4-476d-8449-9f34e9fda5f9)
+![Screenshot 2023-01-26 014606](https://github.com/shahzaibshafiq100/Cars-Rental-React/assets/73356944/a557c5b5-030f-42d9-853a-30959ee1cf27)
+
+
+![Screenshot 2023-01-26 014620](https://github.com/shahzaibshafiq100/Cars-Rental-React/assets/73356944/657834c1-d15e-46e2-8d87-753a471ec3bb)
 
 # Getting Started with Create React App
 
